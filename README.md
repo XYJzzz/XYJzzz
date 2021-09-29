@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @XYJzzz
-- 👀 I’m a new comer to the coding world. In human language, I'm a product designer.
-- 🌱 I’m currently learning front-end programming.
+- 👀 I’m a product designer just started learning coding.
 
 
 <!---
